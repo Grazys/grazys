@@ -1,28 +1,41 @@
-### Hi, My name is Graziella Armond 👋
+<h1 align='center'>
+  Olá, eu me chamo Graziella Armond!
+  </br>
+</h1>
 
 
-- 🔭 My goal is web development - front-end
-- 🌱 Graduating in Systems Analysis and Development. 
-- 😄 Pronouns: she/her
+<p align='center'>
+  - 🔭 Desenvolvedora Front-end
+</p>
 
-<div align="left">
-  <a href="https://github.com/grazys">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grazys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### 😄 Sobre mim:
+
+<p>
+  <em>
+    Tenho 31 anos, sou de Belo Horizonte-MG, porém resido atualmente em São Paulo Capital. Estou em processo de transição de carreira para me tornar uma desenvolvedora Front-end.
+  </em>
+</p>
+
+- 📚 Atualmente estou aprendendo JavaScript.
+- 🚀 Estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio
+- 🚀 Aluna dos cursos Startse - Tech Academy e Oracle One
+- 📫 Meu email: grazi.armond@gmail.com
+
+### 📊 Metas 2022:
+
+- 📂 Expandir meu portfólio
+- 📈 Conseguir experiência na área
+
     
-  ## Tecnologias que utilizo
+### :point_right: Tecnologias que utilizo:
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Grazi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Grazi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Grazi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Grazi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Grazi-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-   </div>
-  
-  ##
-  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+    
+    
+|Minhas Estatísticas|Top linguagens |
+|------------------|----------------|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=grazys&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=5&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
+
   <div>
   
    <a href="https://instagram.com/graziarmond" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,5 +43,6 @@
   <a href="https://www.linkedin.com/in/graziellaarmond/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
+  <p> :dancer: <spam style="font-style:italic">"A vida é uma só e por isso não precisamos nos prender em ter apenas uma profissão. Hoje, podemos ser o que quisermos. Nunca é tarde para recomeçar."</spam></p>
   
 
