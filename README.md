@@ -16,9 +16,9 @@
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo JavaScript.
+- 📚 Atualmente estou aprendendo C# e .NET.
 - 🚀 Estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio
-- 🚀 Aluna dos cursos Startse - Tech Academy e Oracle One
+- 🚀 Aluna dos cursos Rockseat - Ignite e Curso em video.
 - 📫 Meu email: grazi.armond@gmail.com
 
 ### 📊 Metas 2022:
