@@ -29,7 +29,7 @@
     
 ### :point_right: Tecnologias que utilizo:
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,git,github,vscode)](https://skillicons.dev)
     
     
 |Minhas Estatísticas|Top linguagens |
