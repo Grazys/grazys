@@ -16,20 +16,21 @@
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo C# e .NET.
-- 🚀 Estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio
-- 🚀 Aluna dos cursos Rockseat - Ignite e Curso em video.
+- 📚 Atualmente estou aprendendo SQL.
+- 📚 Estag do Itaú
+- 🚀 Estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio 4/5
 - 📫 Meu email: grazi.armond@gmail.com
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
 - 📂 Expandir meu portfólio
-- 📈 Conseguir experiência na área
+- 📈 Conseguir experiência na área de Dados, especificamente com engenharia de dados
 
     
 ### :point_right: Tecnologias que utilizo:
   
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,git,github,vscode)](https://skillicons.dev)
+   
     
     
 |Minhas Estatísticas|Top linguagens |
