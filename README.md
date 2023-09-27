@@ -1,35 +1,32 @@
 <h1 align='center'>
-  Olá, eu me chamo Graziella Armond!
+  Hi, call me Graziella Armond!
   </br>
 </h1>
 
 
 <p align='center'>
-  - 🔭 Desenvolvedora Front-end
+  - 🔭 Data Engineer
 </p>
 
 ### 😄 Sobre mim:
 
 <p>
   <em>
-    Tenho 31 anos, sou de Belo Horizonte-MG, porém resido atualmente em São Paulo Capital. Estou em processo de transição de carreira para me tornar uma desenvolvedora Front-end.
+    - Data Engineer at Itaú
+    - My pronouns are she/her/hers
+    - I'm originally from Belo Horizonte/MG, Brazil
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo SQL.
+- 📚 I have knowledge in Python, SQL Server, Integration Service, Alteryx, AWS. 
 - 📚 Estag do Itaú
-- 🚀 Estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio 4/5
-- 📫 Meu email: grazi.armond@gmail.com
-
-### 📊 Metas 2023:
-
-- 📂 Expandir meu portfólio
-- 📈 Conseguir experiência na área de Dados, especificamente com engenharia de dados
+- 🚀 I study systems analysis and development and graduate in June 2024
+- 📫 My email: grazi.armond@gmail.com
 
     
 ### :point_right: Tecnologias que utilizo:
   
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,git,github,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,py,vscode,css,git,github)](https://skillicons.dev)
    
     
     
