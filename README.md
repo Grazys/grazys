@@ -8,20 +8,13 @@
   - 🔭 Data Engineer
 </p>
 
-### 😄 Sobre mim:
-
-<p>
-  <em>
+### 😄 About me:
     - Data Engineer at Itaú
     - My pronouns are she/her/hers
     - I'm originally from Belo Horizonte/MG, Brazil
-  </em>
-</p>
-
-- 📚 I have knowledge in Python, SQL Server, Integration Service, Alteryx, AWS. 
-- 📚 Estag do Itaú
-- 🚀 I study systems analysis and development and graduate in June 2024
-- 📫 My email: grazi.armond@gmail.com
+    - 📚 I have knowledge in Python, SQL Server, Integration Service, Alteryx, AWS. 
+    - 🚀 I study systems analysis and development and graduate in June 2024
+    - 📫 My email: grazi.armond@gmail.com
 
     
 ### :point_right: Tecnologias que utilizo:
